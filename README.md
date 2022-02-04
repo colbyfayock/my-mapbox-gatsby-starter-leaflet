@@ -1,15 +1,17 @@
-# Mapbox Custom Style Map Demo
+# Custom Map Styles in React Leaflet with Mapbox
 
-Learn how to create your own with [How to Create a Custom Mapbox Style and Add it to React Leaflet](https://www.youtube.com/watch?v=KcPJr1b_rv0)
+Demo for tutorial [How to set up a custom Mapbox basemap style with React Leaflet and Leaflet Gatsby Starter](https://www.youtube.com/watch?v=KcPJr1b_rv0)
 
-## Getting started locally
-* `yarn install`
-* `yarn develop`
-* 🚀
+🚀 See Demo: https://my-mapbox-gatsby-starter-leaflet.netlify.com/
 
-## Spin up your own mapping app!
-Check out [Gatsby Starter Leaflet](https://github.com/colbyfayock/gatsby-starter-leaflet)
+📝 Article: https://www.colbyfayock.com/posts/how-to-set-up-a-custom-mapbox-basemap-style-with-react-leaflet-and-leaflet-gatsby-starter
+
+📺 YouTube: https://www.youtube.com/watch?v=KcPJr1b_rv0
 
 ## More tutorials and walkthroughs
-* [Follow me on Twitter](https://twitter.com/colbyfayock)
-* [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+
+🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
+
+📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+
+✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
